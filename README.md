@@ -6,15 +6,11 @@ Implemented a data analysis model to segment mall customers based on their trans
 ![21 (1)](https://github.com/user-attachments/assets/916d3d34-d78c-4f1a-bdab-b5f619d6ec89)
 
 > [!IMPORTANT]
-> 
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, K-Means Clustering, Flask.
-
-**Languages Used:**
-
-➢ PYTHON
-
-➢ MACHINE LEARNING LIBRARIES.
+> **Technologies:**
+> Python, Pandas, NumPy, Matplotlib, Seaborn, K-Means Clustering, Flask.
+> **Languages Used:**
+> ➢ PYTHON
+> ➢ MACHINE LEARNING LIBRARIES.
 
 **ALGORITHMS AND METHODS USED:**
 
