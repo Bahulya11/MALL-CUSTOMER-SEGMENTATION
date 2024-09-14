@@ -11,23 +11,17 @@ Implemented a data analysis model to segment mall customers based on their trans
 > 
 > **Languages Used:**
 > ➢ PYTHON
-> ➢ MACHINE LEARNING LIBRARIES.
-
-**ALGORITHMS AND METHODS USED:**
-
-➢ RFM MODEL(Recency, Frequency, Monetary Analysis)
-
-➢ K MEANS CLUSTERING ALGORITHM
-
-➢ ELBOW CURVE METHOD
-
-**Dataset**
-
-➢ Source: Kaggle - Online Retail Dataset
-
-➢ Columns/Variables: CustomerID, InvoiceDate, Quantity, UnitPrice, StockCode, InvoiceNo,Description, Country.
-
-➢ Size:541,909 rows x 8 columns
+> ➢ MACHINE LEARNING LIBRARIES.\
+>
+> **ALGORITHMS AND METHODS USED:**
+> ➢ RFM MODEL(Recency, Frequency, Monetary Analysis)
+> ➢ K MEANS CLUSTERING ALGORITHM
+> ➢ ELBOW CURVE METHOD.
+>
+> **Dataset**
+> ➢ Source: Kaggle - Online Retail Dataset
+> ➢ Columns/Variables: CustomerID, InvoiceDate, Quantity, UnitPrice, StockCode, InvoiceNo,Description, Country.
+> ➢ Size:541,909 rows x 8 columns
 
 ➢ Format: CSV
 
